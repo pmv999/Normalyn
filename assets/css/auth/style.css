@@ -1,0 +1,24 @@
+.jumbotron{
+    color: #ffffff;
+    background-color: #767676;
+}
+.btn-warning{
+    background-color: #ff7e00;
+    border-color: #ff7e00;
+}
+.btn-warning:hover {
+    color: #212529;
+    background-color: #ce6a06;
+    border-color: #ce6a06;
+}
+hr {
+    height: 2px;
+    background-color: #2e2e2e;
+  }
+a{
+    color: #2e2e2e;
+}
+a:hover{
+
+    color: #ce6a06;
+  }
